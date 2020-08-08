@@ -1,7 +1,0 @@
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\bin\Debug\first-program.exe.config
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\bin\Debug\first-program.exe
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\bin\Debug\first-program.pdb
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\obj\Debug\first-program.csprojAssemblyReference.cache
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\obj\Debug\first-program.csproj.CoreCompileInputs.cache
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\obj\Debug\first-program.exe
-D:\Khoa UIT\OneDrive - Trường ĐH CNTT - University of Information Technology\Project\C# VStudio\first-program\first-program\obj\Debug\first-program.pdb
